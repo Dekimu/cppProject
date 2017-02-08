@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481366961 source:d:\programs\images\c++projects\binarysearch\main.cpp
+	<iostream>
+	<stdio.h>
+

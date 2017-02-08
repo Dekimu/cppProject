@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479416663 source:d:\programs\images\c++projects\structures\main.cpp
+	<iostream>
+	<cstdio>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
